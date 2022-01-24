@@ -1,0 +1,16 @@
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\CadastroSeries.exe
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\CadastroSeries.deps.json
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\CadastroSeries.runtimeconfig.json
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\CadastroSeries.runtimeconfig.dev.json
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\CadastroSeries.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\ref\CadastroSeries.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\CadastroSeries.pdb
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\CadastroSeries.csproj.AssemblyReference.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\CadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\CadastroSeries.AssemblyInfoInputs.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\CadastroSeries.AssemblyInfo.cs
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\CadastroSeries.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\ref\CadastroSeries.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\CadastroSeries.pdb
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\CadastroSeries.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mlssp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mlssp\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+C:\Users\corre\Dio.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\corre\Dio.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\corre\Dio.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\corre\Dio.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\corre\Dio.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\corre\Dio.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\corre\Dio.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\corre\Dio.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\corre\Dio.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corre\Dio.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\corre\Dio.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\corre\Dio.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\corre\Dio.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\corre\Dio.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\corre\Dio.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\corre\Dio.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\mlssp\OneDrive\Área de Trabalho\ListaSerieDIO-master\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\mlssp\OneDrive\Área de Trabalho\CadastroSeries\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
