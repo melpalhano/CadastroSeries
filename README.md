@@ -1,5 +1,15 @@
-# DIO
-Desafio Git e Github
+## APP de Cadastro de Series
 
-Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio ;)
+A finalidade do APP é criar um algoritmo simples de cadastro de séries, aplicando orientação a objetos, modelagem de domínio e recursos de coleção para armazenar dados na memória. 
 
+### Tecnologias Utilizadas:
+
+- [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [.NET](https://dotnet.microsoft.com/en-us/download)
+
+### Para inicializar o arquivo: 
+```bash
+dotnet run
+```
+---
+>  Proposto pela Digital Inovation one (DIO)
